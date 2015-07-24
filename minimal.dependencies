@@ -1,9 +1,9 @@
 [
   {
-    "remote": "th",
+    "remote": "mo",
     "repository": "android_kernel_lge_hammerhead",
     "target_path": "kernel/lge/hammerhead",
-    "revision": "cm-12.1"
+    "revision": "lp-mr1"
   },
   { "remote": "mo",
     "repository": "vendor_lge",
