@@ -22,4 +22,7 @@
 
     <!-- Default screen brightness, from 0 to 255. 82 is 32%. -->
     <integer name="def_screen_brightness">82</integer>
+
+    <!-- Default app install location -->
+    <integer name="def_install_location">1</integer>
 </resources>
